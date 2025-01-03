@@ -16,3 +16,4 @@ This repository contains materials for the **Mathematical Modeling and Data Scie
    ```bash
    git clone <repository_url>
 
+# ModEvoCourse
